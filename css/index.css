@@ -1,0 +1,14 @@
+.hover-text-header a{
+    color: #696763;
+    /* background-color: blueviolet; */
+}
+.hover-text-header a:hover{
+    color: #fdb45e;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 90%;
+}
+.home-section{
+    margin-top: 50px;
+}
