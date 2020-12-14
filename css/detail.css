@@ -1,4 +1,4 @@
-.card-boder{
+.card-boder-detail{
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -9,7 +9,7 @@
     background-clip: border-box;
     border: 0px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-    width: 20rem;
+    width: 80%;
     background-color: #EFEDED;
     border-radius: 20px;
 }
