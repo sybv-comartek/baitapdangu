@@ -1,4 +1,4 @@
-.card-boder-detail{
+.card-boder-checkoutcart{
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -9,10 +9,7 @@
     background-clip: border-box;
     border: 0px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-    width: 80%;
+    width: 100%;
     background-color: #EFEDED;
     border-radius: 20px;
 }
-hr.new3 {
-    border-top: 1px dotted red;
-  }
